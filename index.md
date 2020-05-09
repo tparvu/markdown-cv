@@ -4,6 +4,7 @@ title: Isaac Newtons's CV
 ---
 # Isaac Newton
 Physicist, Mathematician, Cambridge professor.
+Always wanted to study at Stanford.
 
 <div id="webaddress">
 <a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
